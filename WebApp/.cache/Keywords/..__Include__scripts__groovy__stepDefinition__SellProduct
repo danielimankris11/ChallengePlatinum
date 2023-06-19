@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "9D3100249B531D418D6C2C75A5A427F3",
+  "keywordClasses": [
+    {
+      "name": "stepDefinition.SellProduct",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}
